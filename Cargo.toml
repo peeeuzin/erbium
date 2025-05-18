@@ -1,0 +1,8 @@
+[package]
+name = "erbium"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glium = "*"
+glutin-winit = "0.5.0"
